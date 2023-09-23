@@ -11,22 +11,31 @@ body {
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
+  text-decoration-color: black;
+  background-color: aqua;
+
 }
 
 .wrapper {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  
+
 }
 
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
+
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #252020;
+  font-size: medium;
+  
 }
 
 h1 {
